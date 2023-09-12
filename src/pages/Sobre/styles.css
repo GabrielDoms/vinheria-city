@@ -1,0 +1,18 @@
+#sobre {
+  height: calc(100vh - 200px - 80px);
+  width: 100%;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  justify-content: center;
+
+  row-gap: 32px;
+}
+
+#sobre p {
+  text-align: center;
+
+  width: 500px;
+}
